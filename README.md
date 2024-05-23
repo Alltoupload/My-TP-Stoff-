@@ -1,2 +1,2 @@
-# My-TP-Stoff-
+# My TP (Stoff)
 My TP (WIP rn)
